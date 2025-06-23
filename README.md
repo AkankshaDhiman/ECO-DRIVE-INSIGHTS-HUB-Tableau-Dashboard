@@ -1,4 +1,4 @@
-# ECO-DRIVE-INSIGHTS-HUB : -Tableau-Dashboard
+# ECO-DRIVE-INSIGHTS-HUB : -Tableau_Dashboard
  
 Overview
 Welcome to the ECO-DRIVE INSIGHTS HUB! This repository contains the project completed during my summer training course on SQL and Data Analytics at Programming Pathshala. The project focuses on analyzing and visualizing data related to the electric vehicle (EV) market, providing valuable insights into various aspects of the industry.
